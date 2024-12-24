@@ -1,0 +1,10 @@
+*.gz
+/classify_w_depther/Miniconda3-latest-Linux-x86_64.sh
+/classify_w_depther/dinov2_repo/
+/classify_w_depther/dinov2/
+/classify_w_depther/dpg_data/doppelgangers/
+*.vscode/
+*.ipynb_checkpoints/
+*/__pycache__/
+/classification_window_direct_trial/doppelgangers_data/Arc_de_T/
+/classification_window_direct_trial/
